@@ -14,4 +14,4 @@ My name is **Yarkın Gülaçtı**. I'm from **Istanbul, Turkey**. I'm a self-tau
 Mostly, I've worked with **Javascript** and couple of it's popular frameworks and a library in Frontend. In Backend, I've developed an **entire [project](https://biobuluyo.com)** with Laravel PHP Framework and have 1.5+ years experience with it. Currently learning; **DevOps**, **Nestjs**, **Angular**, **Typescript**, and **React**.  
 
 > Contact mail is yarkingulacti@outlook.com  
-> [LinkedIn](https://www.linkedin.com/in/yarkingulacti)
+> [LinkedIn]([https://www.linkedin.com/in/yarkingulacti](https://www.linkedin.com/in/yark%C4%B1n-g%C3%BCla%C3%A7t%C4%B1-75687328a/)https://www.linkedin.com/in/yark%C4%B1n-g%C3%BCla%C3%A7t%C4%B1-75687328a/)
