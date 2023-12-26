@@ -1,5 +1,6 @@
 # 👋 Welcome to my Github profile! 
-My name is **Yarkın Gülaçtı**. I'm from **Istanbul, Turkey**. I'm a self-taught **Full Stack Web Developer**. 
+My name is **Yarkın Gülaçtı**. I'm from **Istanbul, Turkey**. I'm a self-taught **Full Stack Web Developer**.
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=yarkingulacti&theme=dark)
 
 ## My skills are;   
 
