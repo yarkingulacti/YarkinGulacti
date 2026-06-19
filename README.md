@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/2552/">
-  <img src="https://imgs.xkcd.com/comics/the_last_molecule.png" alt="The Last Molecule" height="260" />
+<a href="https://xkcd.com/1598/">
+  <img src="https://imgs.xkcd.com/comics/salvage.png" alt="Salvage" height="260" />
 </a>
 
-**xkcd #2552: The Last Molecule**
+**xkcd #1598: Salvage**
 
-> Biology is really struggling; they're barely at 93% and they keep finding more ants.
+> My hobby: Taking advantage of the rice myth by posting articles on "how to save your wet phone" which are actually just elaborate recipes for rice pilaf.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
