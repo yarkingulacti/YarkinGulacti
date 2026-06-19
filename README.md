@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/2316/">
-  <img src="https://imgs.xkcd.com/comics/hair_growth_rate.png" alt="Hair Growth Rate" height="260" />
+<a href="https://xkcd.com/2552/">
+  <img src="https://imgs.xkcd.com/comics/the_last_molecule.png" alt="The Last Molecule" height="260" />
 </a>
 
-**xkcd #2316: Hair Growth Rate**
+**xkcd #2552: The Last Molecule**
 
-> Hourly haircuts would be annoying, but they'd be easier to do yourself, since you'd have adjacent hairs as a guide. Growing it out would be a huge pain, though.
+> Biology is really struggling; they're barely at 93% and they keep finding more ants.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
