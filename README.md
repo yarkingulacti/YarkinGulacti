@@ -1,23 +1,23 @@
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="170">
-      <img src="https://developeryarkin.com/profile-picture.png" width="140" alt="Yarkın Gülaçtı website logo" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=yarkingulacti&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" height="145" alt="Yarkın Gülaçtı GitHub performance metrics" />
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=yarkingulacti&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" height="145" alt="Yarkın Gülaçtı GitHub performance metrics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarkingulacti&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="145" alt="Yarkın Gülaçtı top languages" />
+</p>
 
 # Yarkın Gülaçtı
 
 ### Full Stack Developer · DevOps Engineer · professional `works-on-my-machine` exorcist 🧙‍♂️
 
 [![Website](https://img.shields.io/badge/Website-developeryarkin.com-3887FE?style=for-the-badge&logo=google-chrome&logoColor=white)](https://developeryarkin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-yarkingulacti-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yarkingulacti)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yarkingulacti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yarkingulacti/)
 [![Email](https://img.shields.io/badge/Email-yarkingulacti%40outlook.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yarkingulacti@outlook.com)
+
+[![Followers](https://img.shields.io/github/followers/yarkingulacti?style=for-the-badge&logo=github&label=Followers)](https://github.com/yarkingulacti?tab=followers)
+[![Stars](https://img.shields.io/github/stars/yarkingulacti?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars)](https://github.com/yarkingulacti?tab=repositories)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-22-3887FE?style=for-the-badge&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=yarkingulacti&style=for-the-badge&color=3887FE&label=Profile+Views)
 
 **Istanbul, Türkiye** 🇹🇷 · self-taught · web apps, infra, CLIs, AI workflows, and occasional side quests that escape containment 🧪
 
