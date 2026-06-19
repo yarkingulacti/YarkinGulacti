@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td align="center" width="170">
-      <img src="https://avatars.githubusercontent.com/u/68713447?v=4" width="140" alt="Yarkın Gülaçtı" />
+      <img src="https://developeryarkin.com/profile-picture.png" width="140" alt="Yarkın Gülaçtı website logo" />
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=yarkingulacti&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" height="145" alt="Yarkın Gülaçtı GitHub performance metrics" />
