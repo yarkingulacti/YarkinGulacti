@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1598/">
-  <img src="https://imgs.xkcd.com/comics/salvage.png" alt="Salvage" height="260" />
+<a href="https://xkcd.com/3256/">
+  <img src="https://imgs.xkcd.com/comics/nostalgia_content.png" alt="Nostalgia Content" height="260" />
 </a>
 
-**xkcd #1598: Salvage**
+**xkcd #3256: Nostalgia Content**
 
-> My hobby: Taking advantage of the rice myth by posting articles on "how to save your wet phone" which are actually just elaborate recipes for rice pilaf.
+> Gen-Z got a chunk of the Carboniferous, and now all their memes are about how pathetic and small today's dragonflies are.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
