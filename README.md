@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/3256/">
-  <img src="https://imgs.xkcd.com/comics/nostalgia_content.png" alt="Nostalgia Content" height="260" />
+<a href="https://xkcd.com/189/">
+  <img src="https://imgs.xkcd.com/comics/exercise.png" alt="Exercise" height="260" />
 </a>
 
-**xkcd #3256: Nostalgia Content**
+**xkcd #189: Exercise**
 
-> Gen-Z got a chunk of the Carboniferous, and now all their memes are about how pathetic and small today's dragonflies are.
+> I haven't had the patience for RPGs in a long time.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
