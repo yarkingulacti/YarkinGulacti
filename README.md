@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/189/">
-  <img src="https://imgs.xkcd.com/comics/exercise.png" alt="Exercise" height="260" />
+<a href="https://xkcd.com/520/">
+  <img src="https://imgs.xkcd.com/comics/cuttlefish.png" alt="Cuttlefish" height="260" />
 </a>
 
-**xkcd #189: Exercise**
+**xkcd #520: Cuttlefish**
 
-> I haven't had the patience for RPGs in a long time.
+> Unless the CS students finish the robot revolution before you finish the cephalopod one.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
