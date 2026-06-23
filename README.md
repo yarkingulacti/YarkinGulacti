@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/520/">
-  <img src="https://imgs.xkcd.com/comics/cuttlefish.png" alt="Cuttlefish" height="260" />
+<a href="https://xkcd.com/1208/">
+  <img src="https://imgs.xkcd.com/comics/footnote_labyrinths.png" alt="Footnote Labyrinths" height="260" />
 </a>
 
-**xkcd #520: Cuttlefish**
+**xkcd #1208: Footnote Labyrinths**
 
-> Unless the CS students finish the robot revolution before you finish the cephalopod one.
+> Every time you read this mouseover, toggle between interpreting nested footnotes as footnotes on footnotes and interpreting them as exponents (minus one, modulo 6, plus 1).
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
