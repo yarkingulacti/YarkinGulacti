@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1208/">
-  <img src="https://imgs.xkcd.com/comics/footnote_labyrinths.png" alt="Footnote Labyrinths" height="260" />
+<a href="https://xkcd.com/403/">
+  <img src="https://imgs.xkcd.com/comics/convincing_pickup_line.png" alt="Convincing Pickup Line" height="260" />
 </a>
 
-**xkcd #1208: Footnote Labyrinths**
+**xkcd #403: Convincing Pickup Line**
 
-> Every time you read this mouseover, toggle between interpreting nested footnotes as footnotes on footnotes and interpreting them as exponents (minus one, modulo 6, plus 1).
+> Check it out; I've had sex with someone who's had sex with someone who's written a paper with Paul Erdős!
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
