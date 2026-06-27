@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/3219/">
-  <img src="https://imgs.xkcd.com/comics/planets_and_bright_stars.png" alt="Planets and Bright Stars" height="260" />
+<a href="https://xkcd.com/1557/">
+  <img src="https://imgs.xkcd.com/comics/ozymandias.png" alt="Ozymandias" height="260" />
 </a>
 
-**xkcd #3219: Planets and Bright Stars**
+**xkcd #1557: Ozymandias**
 
-> An old astronomer trick for distinguishing the Sun from other stars is to take multiple photos a few minutes apart and overlay them, making the Sun stand out due to its high proper motion.
+> And on the pedestal these words appear: "And on the pedestal these words appear: "And on the pedestal these words appear: "And ...
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
