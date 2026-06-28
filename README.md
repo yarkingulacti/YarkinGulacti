@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1557/">
-  <img src="https://imgs.xkcd.com/comics/ozymandias.png" alt="Ozymandias" height="260" />
+<a href="https://xkcd.com/1905/">
+  <img src="https://imgs.xkcd.com/comics/cast_iron_pans.png" alt="Cast Iron Pan" height="260" />
 </a>
 
-**xkcd #1557: Ozymandias**
+**xkcd #1905: Cast Iron Pan**
 
-> And on the pedestal these words appear: "And on the pedestal these words appear: "And on the pedestal these words appear: "And ...
+> If you want to evenly space them, it's easiest to alternate between the Arctic and Antarctic. Some people just go to the Arctic twice, near the equinoxes so the visits are almost 6 months apart, but it's not the same.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
