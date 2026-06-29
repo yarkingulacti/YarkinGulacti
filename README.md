@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1905/">
-  <img src="https://imgs.xkcd.com/comics/cast_iron_pans.png" alt="Cast Iron Pan" height="260" />
+<a href="https://xkcd.com/1453/">
+  <img src="https://imgs.xkcd.com/comics/fmri.png" alt="fMRI" height="260" />
 </a>
 
-**xkcd #1905: Cast Iron Pan**
+**xkcd #1453: fMRI**
 
-> If you want to evenly space them, it's easiest to alternate between the Arctic and Antarctic. Some people just go to the Arctic twice, near the equinoxes so the visits are almost 6 months apart, but it's not the same.
+> They also showed activation in the parts of the brain associated with exposure to dubious study methodology, concern about unremoved piercings, and exasperation with fMRI techs who won't stop talking about Warped Tour.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
