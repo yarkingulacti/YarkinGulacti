@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1453/">
-  <img src="https://imgs.xkcd.com/comics/fmri.png" alt="fMRI" height="260" />
+<a href="https://xkcd.com/3116/">
+  <img src="https://imgs.xkcd.com/comics/echo_chamber.png" alt="Echo Chamber" height="260" />
 </a>
 
-**xkcd #1453: fMRI**
+**xkcd #3116: Echo Chamber**
 
-> They also showed activation in the parts of the brain associated with exposure to dubious study methodology, concern about unremoved piercings, and exasperation with fMRI techs who won't stop talking about Warped Tour.
+> This is almost as bad as the time I signed up for a purely partisan fishing expedition.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
