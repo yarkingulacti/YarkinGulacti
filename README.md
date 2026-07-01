@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/3116/">
-  <img src="https://imgs.xkcd.com/comics/echo_chamber.png" alt="Echo Chamber" height="260" />
+<a href="https://xkcd.com/458/">
+  <img src="https://imgs.xkcd.com/comics/regrets.png" alt="Regrets" height="260" />
 </a>
 
-**xkcd #3116: Echo Chamber**
+**xkcd #458: Regrets**
 
-> This is almost as bad as the time I signed up for a purely partisan fishing expedition.
+> And nothing for 'I'm glad I saw Epic Movie.'
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
