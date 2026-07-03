@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1708/">
-  <img src="https://imgs.xkcd.com/comics/dehydration.png" alt="Dehydration" height="260" />
+<a href="https://xkcd.com/529/">
+  <img src="https://imgs.xkcd.com/comics/sledding_discussion.png" alt="Sledding Discussion" height="260" />
 </a>
 
-**xkcd #1708: Dehydration**
+**xkcd #529: Sledding Discussion**
 
-> I don't care what the research says. Everybody knows you should drink 3,000 glasses of water a day and change your oil every 8 miles.
+> If you get your hands on that one, it's the worst place to have a breaking-up conversation.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
