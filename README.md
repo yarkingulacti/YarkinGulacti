@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/529/">
-  <img src="https://imgs.xkcd.com/comics/sledding_discussion.png" alt="Sledding Discussion" height="260" />
+<a href="https://xkcd.com/2480/">
+  <img src="https://imgs.xkcd.com/comics/no_the_other_one.png" alt="No, The Other One" height="260" />
 </a>
 
-**xkcd #529: Sledding Discussion**
+**xkcd #2480: No, The Other One**
 
-> If you get your hands on that one, it's the worst place to have a breaking-up conversation.
+> Key West, Virginia is not to be confused with Key, West Virginia.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
