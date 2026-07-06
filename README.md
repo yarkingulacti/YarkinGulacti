@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/2251/">
-  <img src="https://imgs.xkcd.com/comics/alignment_chart_alignment_chart.png" alt="Alignment Chart Alignment Chart" height="260" />
+<a href="https://xkcd.com/1008/">
+  <img src="https://imgs.xkcd.com/comics/suckville.png" alt="Suckville" height="260" />
 </a>
 
-**xkcd #2251: Alignment Chart Alignment Chart**
+**xkcd #1008: Suckville**
 
-> I would describe my personal alignment as "lawful heterozygous silty liquid."
+> Suckville is considered by the Census Bureau to be part of the Detroit metropolitan statistical area, despite not being located anywhere near Detroit.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
