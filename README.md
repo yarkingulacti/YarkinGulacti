@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1008/">
-  <img src="https://imgs.xkcd.com/comics/suckville.png" alt="Suckville" height="260" />
+<a href="https://xkcd.com/1055/">
+  <img src="https://imgs.xkcd.com/comics/kickstarter.png" alt="Kickstarter" height="260" />
 </a>
 
-**xkcd #1008: Suckville**
+**xkcd #1055: Kickstarter**
 
-> Suckville is considered by the Census Bureau to be part of the Detroit metropolitan statistical area, despite not being located anywhere near Detroit.
+> If you pledge more than $50 you'll get on the VIP list and have first dibs on a slot on ANY of the pledge levels in the actual campaign.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
