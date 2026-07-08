@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1055/">
-  <img src="https://imgs.xkcd.com/comics/kickstarter.png" alt="Kickstarter" height="260" />
+<a href="https://xkcd.com/1939/">
+  <img src="https://imgs.xkcd.com/comics/2016_election_map.png" alt="2016 Election Map" height="260" />
 </a>
 
-**xkcd #1055: Kickstarter**
+**xkcd #1939: 2016 Election Map**
 
-> If you pledge more than $50 you'll get on the VIP list and have first dibs on a slot on ANY of the pledge levels in the actual campaign.
+> I like the idea of cartograms (distorted population maps), but I feel like in practice they often end up being the worst of both worlds—not great for showing geography OR counting people. And on top of that, they have all the problems of a chloro... chorophl... chloropet... map with areas colored in.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
