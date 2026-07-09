@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1939/">
-  <img src="https://imgs.xkcd.com/comics/2016_election_map.png" alt="2016 Election Map" height="260" />
+<a href="https://xkcd.com/1297/">
+  <img src="https://imgs.xkcd.com/comics/oort_cloud.png" alt="Oort Cloud" height="260" />
 </a>
 
-**xkcd #1939: 2016 Election Map**
+**xkcd #1297: Oort Cloud**
 
-> I like the idea of cartograms (distorted population maps), but I feel like in practice they often end up being the worst of both worlds—not great for showing geography OR counting people. And on top of that, they have all the problems of a chloro... chorophl... chloropet... map with areas colored in.
+> ... I wanna try.  Hang on, be right back.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
