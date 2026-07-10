@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1297/">
-  <img src="https://imgs.xkcd.com/comics/oort_cloud.png" alt="Oort Cloud" height="260" />
+<a href="https://xkcd.com/206/">
+  <img src="https://imgs.xkcd.com/comics/reno_rhymes.png" alt="Reno Rhymes" height="260" />
 </a>
 
-**xkcd #1297: Oort Cloud**
+**xkcd #206: Reno Rhymes**
 
-> ... I wanna try.  Hang on, be right back.
+> Did you shoot a man in Reno?  Now, I don't mean to pry.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
