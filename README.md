@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/206/">
-  <img src="https://imgs.xkcd.com/comics/reno_rhymes.png" alt="Reno Rhymes" height="260" />
+<a href="https://xkcd.com/343/">
+  <img src="https://imgs.xkcd.com/comics/1337_part_3.png" alt="1337: Part 3" height="260" />
 </a>
 
-**xkcd #206: Reno Rhymes**
+**xkcd #343: 1337: Part 3**
 
-> Did you shoot a man in Reno?  Now, I don't mean to pry.
+> I once asked an NSA guy whether they'd broken RSA.  And I know I can trust him, because I asked if he was lying to me and he said no.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
