@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/343/">
-  <img src="https://imgs.xkcd.com/comics/1337_part_3.png" alt="1337: Part 3" height="260" />
+<a href="https://xkcd.com/1061/">
+  <img src="https://imgs.xkcd.com/comics/est.png" alt="EST" height="260" />
 </a>
 
-**xkcd #343: 1337: Part 3**
+**xkcd #1061: EST**
 
-> I once asked an NSA guy whether they'd broken RSA.  And I know I can trust him, because I asked if he was lying to me and he said no.
+> The month names are the same, except that the fourth month only has the name 'April' in even-numbered years, and is otherwise unnamed.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
