@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1061/">
-  <img src="https://imgs.xkcd.com/comics/est.png" alt="EST" height="260" />
+<a href="https://xkcd.com/2263/">
+  <img src="https://imgs.xkcd.com/comics/cicadas.png" alt="Cicadas" height="260" />
 </a>
 
-**xkcd #1061: EST**
+**xkcd #2263: Cicadas**
 
-> The month names are the same, except that the fourth month only has the name 'April' in even-numbered years, and is otherwise unnamed.
+> After a while you adjust to the new cicadian rhythm.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
