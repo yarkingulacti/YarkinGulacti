@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/2263/">
-  <img src="https://imgs.xkcd.com/comics/cicadas.png" alt="Cicadas" height="260" />
+<a href="https://xkcd.com/3023/">
+  <img src="https://imgs.xkcd.com/comics/the_maritime_approximation.png" alt="The Maritime Approximation" height="260" />
 </a>
 
-**xkcd #2263: Cicadas**
+**xkcd #3023: The Maritime Approximation**
 
-> After a while you adjust to the new cicadian rhythm.
+> It works because a nautical mile is based on a degree of latitude, and the Earth (e) is a circle.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
