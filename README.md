@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/3023/">
-  <img src="https://imgs.xkcd.com/comics/the_maritime_approximation.png" alt="The Maritime Approximation" height="260" />
+<a href="https://xkcd.com/286/">
+  <img src="https://imgs.xkcd.com/comics/all_your_base.png" alt="All Your Base" height="260" />
 </a>
 
-**xkcd #3023: The Maritime Approximation**
+**xkcd #286: All Your Base**
 
-> It works because a nautical mile is based on a degree of latitude, and the Earth (e) is a circle.
+> The AYB retro-return-date (Zero Wing Zero Hour) should be around AD 2021.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
