@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/286/">
-  <img src="https://imgs.xkcd.com/comics/all_your_base.png" alt="All Your Base" height="260" />
+<a href="https://xkcd.com/802/">
+  <img src="https://imgs.xkcd.com/comics/online_communities_2.png" alt="Online Communities 2" height="260" />
 </a>
 
-**xkcd #286: All Your Base**
+**xkcd #802: Online Communities 2**
 
-> The AYB retro-return-date (Zero Wing Zero Hour) should be around AD 2021.
+> Best trivia I learned while working on this: 'Man, Farmville is so huge! Do you realize it's the second-biggest browser-based social-networking-centered farming game in the WORLD?' Then you wait for the listener to do a double-take.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
