@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/802/">
-  <img src="https://imgs.xkcd.com/comics/online_communities_2.png" alt="Online Communities 2" height="260" />
+<a href="https://xkcd.com/2010/">
+  <img src="https://imgs.xkcd.com/comics/update_notes.png" alt="Update Notes" height="260" />
 </a>
 
-**xkcd #802: Online Communities 2**
+**xkcd #2010: Update Notes**
 
-> Best trivia I learned while working on this: 'Man, Farmville is so huge! Do you realize it's the second-biggest browser-based social-networking-centered farming game in the WORLD?' Then you wait for the listener to do a double-take.
+> v3.0.2: Hey, if anyone still using this app is headed to the beach, can you stop at 4th and River St and grab the sunscreen from my car? Trunk should be unlocked. Thanks!
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
