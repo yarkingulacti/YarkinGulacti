@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/2010/">
-  <img src="https://imgs.xkcd.com/comics/update_notes.png" alt="Update Notes" height="260" />
+<a href="https://xkcd.com/312/">
+  <img src="https://imgs.xkcd.com/comics/with_apologies_to_robert_frost.png" alt="With Apologies to Robert Frost" height="260" />
 </a>
 
-**xkcd #2010: Update Notes**
+**xkcd #312: With Apologies to Robert Frost**
 
-> v3.0.2: Hey, if anyone still using this app is headed to the beach, can you stop at 4th and River St and grab the sunscreen from my car? Trunk should be unlocked. Thanks!
+> Some say the world will end in fire; some say in segfaults.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
