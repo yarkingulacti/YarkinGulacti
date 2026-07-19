@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/312/">
-  <img src="https://imgs.xkcd.com/comics/with_apologies_to_robert_frost.png" alt="With Apologies to Robert Frost" height="260" />
+<a href="https://xkcd.com/1316/">
+  <img src="https://imgs.xkcd.com/comics/inexplicable.png" alt="Inexplicable" height="260" />
 </a>
 
-**xkcd #312: With Apologies to Robert Frost**
+**xkcd #1316: Inexplicable**
 
-> Some say the world will end in fire; some say in segfaults.
+> 'It has a ghost in it. Take it back.' 'No.'
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
