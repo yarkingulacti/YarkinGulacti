@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1316/">
-  <img src="https://imgs.xkcd.com/comics/inexplicable.png" alt="Inexplicable" height="260" />
+<a href="https://xkcd.com/1315/">
+  <img src="https://imgs.xkcd.com/comics/questions_for_god.png" alt="Questions for God" height="260" />
 </a>
 
-**xkcd #1316: Inexplicable**
+**xkcd #1315: Questions for God**
 
-> 'It has a ghost in it. Take it back.' 'No.'
+> What sins could possibly darken the heart of a STEAMBOAT? I asked The Shadow, but he says he only covers men.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
