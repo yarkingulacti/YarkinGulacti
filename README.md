@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/2133/">
-  <img src="https://imgs.xkcd.com/comics/eht_black_hole_picture.png" alt="EHT Black Hole Picture" height="260" />
+<a href="https://xkcd.com/1022/">
+  <img src="https://imgs.xkcd.com/comics/so_it_has_come_to_this.png" alt="So It Has Come To This" height="260" />
 </a>
 
-**xkcd #2133: EHT Black Hole Picture**
+**xkcd #1022: So It Has Come To This**
 
-> [five years later] Ok, it seems we were accidentally zoomed in slightly too far. But imagine there's a cool-looking twisted accretion disc just outside this black square!
+> 'Come to what?' 'You. Me. This moment.'
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
