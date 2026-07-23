@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1022/">
-  <img src="https://imgs.xkcd.com/comics/so_it_has_come_to_this.png" alt="So It Has Come To This" height="260" />
+<a href="https://xkcd.com/1156/">
+  <img src="https://imgs.xkcd.com/comics/conditioning.png" alt="Conditioning" height="260" />
 </a>
 
-**xkcd #1022: So It Has Come To This**
+**xkcd #1156: Conditioning**
 
-> 'Come to what?' 'You. Me. This moment.'
+> 'Why are you standing in the yard wearing a papal hat and a robe covered in seeds?' 'Well, the Pope is visiting our town next month ...'
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
