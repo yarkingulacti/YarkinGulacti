@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1156/">
-  <img src="https://imgs.xkcd.com/comics/conditioning.png" alt="Conditioning" height="260" />
+<a href="https://xkcd.com/789/">
+  <img src="https://imgs.xkcd.com/comics/showdown.png" alt="Showdown" height="260" />
 </a>
 
-**xkcd #1156: Conditioning**
+**xkcd #789: Showdown**
 
-> 'Why are you standing in the yard wearing a papal hat and a robe covered in seeds?' 'Well, the Pope is visiting our town next month ...'
+> The tumbleweed then tried to roll off into the sunset, but due to the Old West's placement north of the subtropical ridge, the prevailing winds were in the wrong direction.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
