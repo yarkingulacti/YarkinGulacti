@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/789/">
-  <img src="https://imgs.xkcd.com/comics/showdown.png" alt="Showdown" height="260" />
+<a href="https://xkcd.com/696/">
+  <img src="https://imgs.xkcd.com/comics/strip_games.png" alt="Strip Games" height="260" />
 </a>
 
-**xkcd #789: Showdown**
+**xkcd #696: Strip Games**
 
-> The tumbleweed then tried to roll off into the sunset, but due to the Old West's placement north of the subtropical ridge, the prevailing winds were in the wrong direction.
+> HOW ABOUT A NICE GAME OF STRIP GLOBAL THERMONUCLEAR WAR?
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
