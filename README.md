@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/696/">
-  <img src="https://imgs.xkcd.com/comics/strip_games.png" alt="Strip Games" height="260" />
+<a href="https://xkcd.com/3228/">
+  <img src="https://imgs.xkcd.com/comics/day_counter.png" alt="Day Counter" height="260" />
 </a>
 
-**xkcd #696: Strip Games**
+**xkcd #3228: Day Counter**
 
-> HOW ABOUT A NICE GAME OF STRIP GLOBAL THERMONUCLEAR WAR?
+> It has been −2,147,483,648 days since our last integer overflow.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
