@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/3228/">
-  <img src="https://imgs.xkcd.com/comics/day_counter.png" alt="Day Counter" height="260" />
+<a href="https://xkcd.com/1446/">
+  <img src="https://imgs.xkcd.com/comics/landing/awake.png" alt="Landing" height="260" />
 </a>
 
-**xkcd #3228: Day Counter**
+**xkcd #1446: Landing**
 
-> It has been −2,147,483,648 days since our last integer overflow.
+> [LIVE]
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
