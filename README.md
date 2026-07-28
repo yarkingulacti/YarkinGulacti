@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1446/">
-  <img src="https://imgs.xkcd.com/comics/landing/awake.png" alt="Landing" height="260" />
+<a href="https://xkcd.com/2758/">
+  <img src="https://imgs.xkcd.com/comics/my_favorite_things.png" alt="My Favorite Things" height="260" />
 </a>
 
-**xkcd #1446: Landing**
+**xkcd #2758: My Favorite Things**
 
-> [LIVE]
+> When an Ur guy / sells Nanni things / but the copper's bad, / He simply records his complaint for all time / "I got a bad deal / I'm maaaaad"
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
