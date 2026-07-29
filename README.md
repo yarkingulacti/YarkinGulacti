@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/2758/">
-  <img src="https://imgs.xkcd.com/comics/my_favorite_things.png" alt="My Favorite Things" height="260" />
+<a href="https://xkcd.com/2088/">
+  <img src="https://imgs.xkcd.com/comics/schwarzschilds_cat.png" alt="Schwarzschild's Cat" height="260" />
 </a>
 
-**xkcd #2758: My Favorite Things**
+**xkcd #2088: Schwarzschild's Cat**
 
-> When an Ur guy / sells Nanni things / but the copper's bad, / He simply records his complaint for all time / "I got a bad deal / I'm maaaaad"
+> Cats can be smaller than the critical limit, but they're unobservable. If one shrinks enough that it crosses the limit, it just appears to get cuter and cuter as it slowly fades from view.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
