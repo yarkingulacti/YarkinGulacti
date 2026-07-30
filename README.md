@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/2088/">
-  <img src="https://imgs.xkcd.com/comics/schwarzschilds_cat.png" alt="Schwarzschild's Cat" height="260" />
+<a href="https://xkcd.com/314/">
+  <img src="https://imgs.xkcd.com/comics/dating_pools.png" alt="Dating Pools" height="260" />
 </a>
 
-**xkcd #2088: Schwarzschild's Cat**
+**xkcd #314: Dating Pools**
 
-> Cats can be smaller than the critical limit, but they're unobservable. If one shrinks enough that it crosses the limit, it just appears to get cuter and cuter as it slowly fades from view.
+> The full analysis is of course much more complicated, but I can't stay to talk about it because I have a date.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
