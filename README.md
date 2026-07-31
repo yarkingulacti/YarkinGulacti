@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/314/">
-  <img src="https://imgs.xkcd.com/comics/dating_pools.png" alt="Dating Pools" height="260" />
+<a href="https://xkcd.com/10/">
+  <img src="https://imgs.xkcd.com/comics/pi.jpg" alt="Pi Equals" height="260" />
 </a>
 
-**xkcd #314: Dating Pools**
+**xkcd #10: Pi Equals**
 
-> The full analysis is of course much more complicated, but I can't stay to talk about it because I have a date.
+> My most famous drawing, and one of the first I did for the site
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
