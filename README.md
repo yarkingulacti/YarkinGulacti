@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/10/">
-  <img src="https://imgs.xkcd.com/comics/pi.jpg" alt="Pi Equals" height="260" />
+<a href="https://xkcd.com/1009/">
+  <img src="https://imgs.xkcd.com/comics/sigh.png" alt="Sigh" height="260" />
 </a>
 
-**xkcd #10: Pi Equals**
+**xkcd #1009: Sigh**
 
-> My most famous drawing, and one of the first I did for the site
+> If you're annoying enough, you can get them to respond with an involuntary second sigh and get a rhythm going.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
