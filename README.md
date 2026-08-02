@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1009/">
-  <img src="https://imgs.xkcd.com/comics/sigh.png" alt="Sigh" height="260" />
+<a href="https://xkcd.com/1133/">
+  <img src="https://imgs.xkcd.com/comics/up_goer_five.png" alt="Up Goer Five" height="260" />
 </a>
 
-**xkcd #1009: Sigh**
+**xkcd #1133: Up Goer Five**
 
-> If you're annoying enough, you can get them to respond with an involuntary second sigh and get a rhythm going.
+> Another thing that is a bad problem is if you're flying toward space and the parts start to fall off your space car in the wrong order. If that happens, it means you won't go to space today, or maybe ever.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
