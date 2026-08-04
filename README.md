@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1581/">
-  <img src="https://imgs.xkcd.com/comics/birthday.png" alt="Birthday" height="260" />
+<a href="https://xkcd.com/2337/">
+  <img src="https://imgs.xkcd.com/comics/asterisk_corrections.png" alt="Asterisk Corrections" height="260" />
 </a>
 
-**xkcd #1581: Birthday**
+**xkcd #2337: Asterisk Corrections**
 
-> I guess I need to apologize to my parents, friends, and the staff at Chuck E. Cheese's for all the times I called the cops on them.
+> I like trying to make it as hard as possible. "I'd love to meet up, maybe in a few days? Next week is looking pretty empty. *witchcraft"
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
