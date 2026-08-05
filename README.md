@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/2337/">
-  <img src="https://imgs.xkcd.com/comics/asterisk_corrections.png" alt="Asterisk Corrections" height="260" />
+<a href="https://xkcd.com/684/">
+  <img src="https://imgs.xkcd.com/comics/we_get_it.png" alt="We Get It" height="260" />
 </a>
 
-**xkcd #2337: Asterisk Corrections**
+**xkcd #684: We Get It**
 
-> I like trying to make it as hard as possible. "I'd love to meet up, maybe in a few days? Next week is looking pretty empty. *witchcraft"
+> The most brutal way I've ever seen someone handle this was 'Oh, you have a girlfriend. Are you going to get married?'  'I, uh, don't know--' 'Well, do you love her?' '...' 'Anyway, what were you saying about the movie?'
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
