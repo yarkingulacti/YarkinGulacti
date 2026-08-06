@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/684/">
-  <img src="https://imgs.xkcd.com/comics/we_get_it.png" alt="We Get It" height="260" />
+<a href="https://xkcd.com/1599/">
+  <img src="https://imgs.xkcd.com/comics/water_delivery.png" alt="Water Delivery" height="260" />
 </a>
 
-**xkcd #684: We Get It**
+**xkcd #1599: Water Delivery**
 
-> The most brutal way I've ever seen someone handle this was 'Oh, you have a girlfriend. Are you going to get married?'  'I, uh, don't know--' 'Well, do you love her?' '...' 'Anyway, what were you saying about the movie?'
+> When I was a kid, I asked my parents why our houses didn't have toothpaste pipes in addition to water ones. I'm strangely pleased to see Amazon thinking the same way.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
