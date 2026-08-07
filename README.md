@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1599/">
-  <img src="https://imgs.xkcd.com/comics/water_delivery.png" alt="Water Delivery" height="260" />
+<a href="https://xkcd.com/2744/">
+  <img src="https://imgs.xkcd.com/comics/fanservice.png" alt="Fanservice" height="260" />
 </a>
 
-**xkcd #1599: Water Delivery**
+**xkcd #2744: Fanservice**
 
-> When I was a kid, I asked my parents why our houses didn't have toothpaste pipes in addition to water ones. I'm strangely pleased to see Amazon thinking the same way.
+> I was eventually kicked out of my architectural engineering program because I wouldn't stop referring to HVAC as "the fandom."
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
