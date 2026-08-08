@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/2744/">
-  <img src="https://imgs.xkcd.com/comics/fanservice.png" alt="Fanservice" height="260" />
+<a href="https://xkcd.com/129/">
+  <img src="https://imgs.xkcd.com/comics/content_protection.png" alt="Content Protection" height="260" />
 </a>
 
-**xkcd #2744: Fanservice**
+**xkcd #129: Content Protection**
 
-> I was eventually kicked out of my architectural engineering program because I wouldn't stop referring to HVAC as "the fandom."
+> If you think the purveyors of DRM simply want to protect artists, check out chapters 13 and 14 in Free Culture, by Lawrence Lessig.  Their goal is the elimination of all culture they don't control.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
