@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1726/">
-  <img src="https://imgs.xkcd.com/comics/unicode.png" alt="Unicode" height="260" />
+<a href="https://xkcd.com/1033/">
+  <img src="https://imgs.xkcd.com/comics/formal_logic.png" alt="Formal Logic" height="260" />
 </a>
 
-**xkcd #1726: Unicode**
+**xkcd #1033: Formal Logic**
 
-> I'm excited about the proposal to add a "brontosaurus" emoji codepoint because it has the potential to bring together a half-dozen different groups of pedantic people into a single glorious internet argument.
+> Note that this implies you should NOT honk solely because I stopped for a pedestrian and you're behind me.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
