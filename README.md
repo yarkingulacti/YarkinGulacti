@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1033/">
-  <img src="https://imgs.xkcd.com/comics/formal_logic.png" alt="Formal Logic" height="260" />
+<a href="https://xkcd.com/2929/">
+  <img src="https://imgs.xkcd.com/comics/good_and_bad_ideas.png" alt="Good and Bad Ideas" height="260" />
 </a>
 
-**xkcd #1033: Formal Logic**
+**xkcd #2929: Good and Bad Ideas**
 
-> Note that this implies you should NOT honk solely because I stopped for a pedestrian and you're behind me.
+> While it seemed like a fun prank at the time, I realize my prank fire extinguishers full of leaded gasoline were a mistake.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
