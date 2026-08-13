@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/2929/">
-  <img src="https://imgs.xkcd.com/comics/good_and_bad_ideas.png" alt="Good and Bad Ideas" height="260" />
+<a href="https://xkcd.com/592/">
+  <img src="https://imgs.xkcd.com/comics/drama.png" alt="Drama" height="260" />
 </a>
 
-**xkcd #2929: Good and Bad Ideas**
+**xkcd #592: Drama**
 
-> While it seemed like a fun prank at the time, I realize my prank fire extinguishers full of leaded gasoline were a mistake.
+> This happens in geek circles every so often. The 'Hey, this is just a system I can figure out easily!' is also a problem among engineers first diving into the stock market.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
