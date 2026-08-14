@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/592/">
-  <img src="https://imgs.xkcd.com/comics/drama.png" alt="Drama" height="260" />
+<a href="https://xkcd.com/3030/">
+  <img src="https://imgs.xkcd.com/comics/lasering_incidents.png" alt="Lasering Incidents" height="260" />
 </a>
 
-**xkcd #592: Drama**
+**xkcd #3030: Lasering Incidents**
 
-> This happens in geek circles every so often. The 'Hey, this is just a system I can figure out easily!' is also a problem among engineers first diving into the stock market.
+> I still don't know how the police found my compound where I ran an illegal searchlight depot/covert blimp airfield/fireworks testing range.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
