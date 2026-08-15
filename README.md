@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/3030/">
-  <img src="https://imgs.xkcd.com/comics/lasering_incidents.png" alt="Lasering Incidents" height="260" />
+<a href="https://xkcd.com/482/">
+  <img src="https://imgs.xkcd.com/comics/height.png" alt="Height" height="260" />
 </a>
 
-**xkcd #3030: Lasering Incidents**
+**xkcd #482: Height**
 
-> I still don't know how the police found my compound where I ran an illegal searchlight depot/covert blimp airfield/fireworks testing range.
+> Interestingly, on a true vertical log plot, I think the Eiffel Tower's sides really would be straight lines.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
