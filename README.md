@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/482/">
-  <img src="https://imgs.xkcd.com/comics/height.png" alt="Height" height="260" />
+<a href="https://xkcd.com/362/">
+  <img src="https://imgs.xkcd.com/comics/blade_runner.png" alt="Blade Runner" height="260" />
 </a>
 
-**xkcd #482: Height**
+**xkcd #362: Blade Runner**
 
-> Interestingly, on a true vertical log plot, I think the Eiffel Tower's sides really would be straight lines.
+> Blade Runner: Classic, but incredibly slow.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
