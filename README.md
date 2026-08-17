@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/362/">
-  <img src="https://imgs.xkcd.com/comics/blade_runner.png" alt="Blade Runner" height="260" />
+<a href="https://xkcd.com/2901/">
+  <img src="https://imgs.xkcd.com/comics/geographic_qualifiers.png" alt="Geographic Qualifiers" height="260" />
 </a>
 
-**xkcd #362: Blade Runner**
+**xkcd #2901: Geographic Qualifiers**
 
-> Blade Runner: Classic, but incredibly slow.
+> 'Thank you for the loveliest evening I've ever had...' [normal] '...east of the Mississippi.' [instant intrigue!]
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
