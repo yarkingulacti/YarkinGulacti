@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/2901/">
-  <img src="https://imgs.xkcd.com/comics/geographic_qualifiers.png" alt="Geographic Qualifiers" height="260" />
+<a href="https://xkcd.com/2842/">
+  <img src="https://imgs.xkcd.com/comics/inspiraling_roundabout.png" alt="Inspiraling Roundabout" height="260" />
 </a>
 
-**xkcd #2901: Geographic Qualifiers**
+**xkcd #2842: Inspiraling Roundabout**
 
-> 'Thank you for the loveliest evening I've ever had...' [normal] '...east of the Mississippi.' [instant intrigue!]
+> Look, I just think we need to stop coddling those hedonistic roundabout hogs who get into the inner lane and circle for hours, wasting valuable capacity.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
