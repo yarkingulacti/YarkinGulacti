@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/2842/">
-  <img src="https://imgs.xkcd.com/comics/inspiraling_roundabout.png" alt="Inspiraling Roundabout" height="260" />
+<a href="https://xkcd.com/3061/">
+  <img src="https://imgs.xkcd.com/comics/water_balloons.png" alt="Water Balloons" height="260" />
 </a>
 
-**xkcd #2842: Inspiraling Roundabout**
+**xkcd #3061: Water Balloons**
 
-> Look, I just think we need to stop coddling those hedonistic roundabout hogs who get into the inner lane and circle for hours, wasting valuable capacity.
+> Update: The physics department has recruited an astronomer who studies meteor fireballs.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
