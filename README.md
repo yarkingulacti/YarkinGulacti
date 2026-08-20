@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/3061/">
-  <img src="https://imgs.xkcd.com/comics/water_balloons.png" alt="Water Balloons" height="260" />
+<a href="https://xkcd.com/2586/">
+  <img src="https://imgs.xkcd.com/comics/greek_letters.png" alt="Greek Letters" height="260" />
 </a>
 
-**xkcd #3061: Water Balloons**
+**xkcd #2586: Greek Letters**
 
-> Update: The physics department has recruited an astronomer who studies meteor fireballs.
+> If you ever see someone using a capital xi in an equation, just observe them quietly to learn as much as you can before they return to their home planet.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
