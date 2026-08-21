@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/2586/">
-  <img src="https://imgs.xkcd.com/comics/greek_letters.png" alt="Greek Letters" height="260" />
+<a href="https://xkcd.com/1205/">
+  <img src="https://imgs.xkcd.com/comics/is_it_worth_the_time.png" alt="Is It Worth the Time?" height="260" />
 </a>
 
-**xkcd #2586: Greek Letters**
+**xkcd #1205: Is It Worth the Time?**
 
-> If you ever see someone using a capital xi in an equation, just observe them quietly to learn as much as you can before they return to their home planet.
+> Don't forget the time you spend finding the chart to look up what you save. And the time spent reading this reminder about the time spent. And the time trying to figure out if either of those actually make sense. Remember, every second counts toward your life total, including these right now.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
