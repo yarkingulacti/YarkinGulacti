@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1205/">
-  <img src="https://imgs.xkcd.com/comics/is_it_worth_the_time.png" alt="Is It Worth the Time?" height="260" />
+<a href="https://xkcd.com/747/">
+  <img src="https://imgs.xkcd.com/comics/geeks_and_nerds.png" alt="Geeks and Nerds" height="260" />
 </a>
 
-**xkcd #1205: Is It Worth the Time?**
+**xkcd #747: Geeks and Nerds**
 
-> Don't forget the time you spend finding the chart to look up what you save. And the time spent reading this reminder about the time spent. And the time trying to figure out if either of those actually make sense. Remember, every second counts toward your life total, including these right now.
+> The definitions I grew up with were that a geek is someone unusually into something (so you could have computer geeks, baseball geeks, theater geeks, etc) and nerds are (often awkward) science, math, or computer geeks. But definitions vary.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
