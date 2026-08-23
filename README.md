@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/747/">
-  <img src="https://imgs.xkcd.com/comics/geeks_and_nerds.png" alt="Geeks and Nerds" height="260" />
+<a href="https://xkcd.com/3168/">
+  <img src="https://imgs.xkcd.com/comics/beam_dump.png" alt="Beam Dump" height="260" />
 </a>
 
-**xkcd #747: Geeks and Nerds**
+**xkcd #3168: Beam Dump**
 
-> The definitions I grew up with were that a geek is someone unusually into something (so you could have computer geeks, baseball geeks, theater geeks, etc) and nerds are (often awkward) science, math, or computer geeks. But definitions vary.
+> We're adding some industrial flypaper to minimize reflection or scattering of customers who might complain.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
