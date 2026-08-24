@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/3168/">
-  <img src="https://imgs.xkcd.com/comics/beam_dump.png" alt="Beam Dump" height="260" />
+<a href="https://xkcd.com/2733/">
+  <img src="https://imgs.xkcd.com/comics/size_comparisons.png" alt="Size Comparisons" height="260" />
 </a>
 
-**xkcd #3168: Beam Dump**
+**xkcd #2733: Size Comparisons**
 
-> We're adding some industrial flypaper to minimize reflection or scattering of customers who might complain.
+> If you shrank the Solar System to the size of Texas, the Houston metro area would be smaller than a grasshopper in Dallas.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
