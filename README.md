@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/2733/">
-  <img src="https://imgs.xkcd.com/comics/size_comparisons.png" alt="Size Comparisons" height="260" />
+<a href="https://xkcd.com/2923/">
+  <img src="https://imgs.xkcd.com/comics/scary_triangles.png" alt="Scary Triangles" height="260" />
 </a>
 
-**xkcd #2733: Size Comparisons**
+**xkcd #2923: Scary Triangles**
 
-> If you shrank the Solar System to the size of Texas, the Houston metro area would be smaller than a grasshopper in Dallas.
+> Concealed mostly beneath the surface, sharks are the icebergs of the sea.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
