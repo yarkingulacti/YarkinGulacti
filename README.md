@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/2923/">
-  <img src="https://imgs.xkcd.com/comics/scary_triangles.png" alt="Scary Triangles" height="260" />
+<a href="https://xkcd.com/500/">
+  <img src="https://imgs.xkcd.com/comics/election.png" alt="Election" height="260" />
 </a>
 
-**xkcd #2923: Scary Triangles**
+**xkcd #500: Election**
 
-> Concealed mostly beneath the surface, sharks are the icebergs of the sea.
+> Someday I'll be rich enough to hire Nate Silver to help make all my life decisions.  'Should I sleep with her?'  'Well, I'm showing a 35% chance it will end badly.'
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
