@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/500/">
-  <img src="https://imgs.xkcd.com/comics/election.png" alt="Election" height="260" />
+<a href="https://xkcd.com/178/">
+  <img src="https://imgs.xkcd.com/comics/not_really_into_pokemon.png" alt="Not Really Into Pokemon" height="260" />
 </a>
 
-**xkcd #500: Election**
+**xkcd #178: Not Really Into Pokemon**
 
-> Someday I'll be rich enough to hire Nate Silver to help make all my life decisions.  'Should I sleep with her?'  'Well, I'm showing a 35% chance it will end badly.'
+> As of this writing, Ubuntu 6.10 and Firefox 2.0 have left my computer a complete mess.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
