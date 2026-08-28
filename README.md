@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/178/">
-  <img src="https://imgs.xkcd.com/comics/not_really_into_pokemon.png" alt="Not Really Into Pokemon" height="260" />
+<a href="https://xkcd.com/661/">
+  <img src="https://imgs.xkcd.com/comics/two_party_system.png" alt="Two-Party System" height="260" />
 </a>
 
-**xkcd #178: Not Really Into Pokemon**
+**xkcd #661: Two-Party System**
 
-> As of this writing, Ubuntu 6.10 and Firefox 2.0 have left my computer a complete mess.
+> I favor approval voting or IRV chiefly because they mean we might get to bring back The Bull Moose party.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
