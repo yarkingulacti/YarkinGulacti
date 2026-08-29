@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/661/">
-  <img src="https://imgs.xkcd.com/comics/two_party_system.png" alt="Two-Party System" height="260" />
+<a href="https://xkcd.com/774/">
+  <img src="https://imgs.xkcd.com/comics/atheists.png" alt="Atheists" height="260" />
 </a>
 
-**xkcd #661: Two-Party System**
+**xkcd #774: Atheists**
 
-> I favor approval voting or IRV chiefly because they mean we might get to bring back The Bull Moose party.
+> 'But you're using that same tactic to try to feel superior to me, too!' 'Sorry, that accusation expires after one use per conversation.'
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
