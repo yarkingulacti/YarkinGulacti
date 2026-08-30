@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/774/">
-  <img src="https://imgs.xkcd.com/comics/atheists.png" alt="Atheists" height="260" />
+<a href="https://xkcd.com/1403/">
+  <img src="https://imgs.xkcd.com/comics/thesis_defense.png" alt="Thesis Defense" height="260" />
 </a>
 
-**xkcd #774: Atheists**
+**xkcd #1403: Thesis Defense**
 
-> 'But you're using that same tactic to try to feel superior to me, too!' 'Sorry, that accusation expires after one use per conversation.'
+> MY RESULTS ARE A SIGNIFICANT IMPROVEMENT ON THE STATE OF THE AAAAAAAAAAAART
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
