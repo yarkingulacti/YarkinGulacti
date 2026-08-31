@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1403/">
-  <img src="https://imgs.xkcd.com/comics/thesis_defense.png" alt="Thesis Defense" height="260" />
+<a href="https://xkcd.com/1397/">
+  <img src="https://imgs.xkcd.com/comics/luke.png" alt="Luke" height="260" />
 </a>
 
-**xkcd #1403: Thesis Defense**
+**xkcd #1397: Luke**
 
-> MY RESULTS ARE A SIGNIFICANT IMPROVEMENT ON THE STATE OF THE AAAAAAAAAAAART
+> Don't turn it on.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
