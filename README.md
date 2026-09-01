@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1397/">
-  <img src="https://imgs.xkcd.com/comics/luke.png" alt="Luke" height="260" />
+<a href="https://xkcd.com/2567/">
+  <img src="https://imgs.xkcd.com/comics/language_development.png" alt="Language Development" height="260" />
 </a>
 
-**xkcd #1397: Luke**
+**xkcd #2567: Language Development**
 
-> Don't turn it on.
+> The worst is the Terrible Twos, when they're always throwing things and shrieking, "forsooth, to bed thou shalt not take me, cur!"
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
