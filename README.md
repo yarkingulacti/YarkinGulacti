@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/2567/">
-  <img src="https://imgs.xkcd.com/comics/language_development.png" alt="Language Development" height="260" />
+<a href="https://xkcd.com/1908/">
+  <img src="https://imgs.xkcd.com/comics/credit_card_rewards.png" alt="Credit Card Rewards" height="260" />
 </a>
 
-**xkcd #2567: Language Development**
+**xkcd #1908: Credit Card Rewards**
 
-> The worst is the Terrible Twos, when they're always throwing things and shrieking, "forsooth, to bed thou shalt not take me, cur!"
+> I should make a list of all the things I could be trying to optimize, prioritized by ... well, I guess there are a few different variables I could use. I'll create a spreadsheet ...
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
