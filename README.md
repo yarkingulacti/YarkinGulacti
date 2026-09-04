@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/56/">
-  <img src="https://imgs.xkcd.com/comics/the_cure.jpg" alt="The Cure" height="260" />
+<a href="https://xkcd.com/1803/">
+  <img src="https://imgs.xkcd.com/comics/location_reviews.png" alt="Location Reviews" height="260" />
 </a>
 
-**xkcd #56: The Cure**
+**xkcd #1803: Location Reviews**
 
-> My first try at drawing a real face in years
+> Google and Yelp keep deleting my scathing reviews of the Mariana Trench, the Chernobyl reactor core, the jet stream, and the equator.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
