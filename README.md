@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1803/">
-  <img src="https://imgs.xkcd.com/comics/location_reviews.png" alt="Location Reviews" height="260" />
+<a href="https://xkcd.com/1273/">
+  <img src="https://imgs.xkcd.com/comics/tall_infographics.png" alt="Tall Infographics" height="260" />
 </a>
 
-**xkcd #1803: Location Reviews**
+**xkcd #1273: Tall Infographics**
 
-> Google and Yelp keep deleting my scathing reviews of the Mariana Trench, the Chernobyl reactor core, the jet stream, and the equator.
+> 'Big Data' doesn't just mean increasing the font size.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
