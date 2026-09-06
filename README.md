@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1273/">
-  <img src="https://imgs.xkcd.com/comics/tall_infographics.png" alt="Tall Infographics" height="260" />
+<a href="https://xkcd.com/3064/">
+  <img src="https://imgs.xkcd.com/comics/lungfish.png" alt="Lungfish" height="260" />
 </a>
 
-**xkcd #1273: Tall Infographics**
+**xkcd #3064: Lungfish**
 
-> 'Big Data' doesn't just mean increasing the font size.
+> I know having so many base pairs makes rebasing complicated, but you're in Bilateria, so shouldn't you at LEAST be better at using git head?
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
