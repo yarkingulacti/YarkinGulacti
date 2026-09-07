@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/3064/">
-  <img src="https://imgs.xkcd.com/comics/lungfish.png" alt="Lungfish" height="260" />
+<a href="https://xkcd.com/645/">
+  <img src="https://imgs.xkcd.com/comics/rps.png" alt="RPS" height="260" />
 </a>
 
-**xkcd #3064: Lungfish**
+**xkcd #645: RPS**
 
-> I know having so many base pairs makes rebasing complicated, but you're in Bilateria, so shouldn't you at LEAST be better at using git head?
+> It looks good, but it needs more postfixins.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
