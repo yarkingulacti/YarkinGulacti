@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/645/">
-  <img src="https://imgs.xkcd.com/comics/rps.png" alt="RPS" height="260" />
+<a href="https://xkcd.com/890/">
+  <img src="https://imgs.xkcd.com/comics/etymology.png" alt="Etymology" height="260" />
 </a>
 
-**xkcd #645: RPS**
+**xkcd #890: Etymology**
 
-> It looks good, but it needs more postfixins.
+> For some reason, my childhood suspension of disbelief had no problem with the fact that this ancient galaxy is full of humans, but was derailed by language. There's no Asia OR Europe there, so where'd they get all the Indo-European roots?
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
