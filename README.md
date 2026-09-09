@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/890/">
-  <img src="https://imgs.xkcd.com/comics/etymology.png" alt="Etymology" height="260" />
+<a href="https://xkcd.com/815/">
+  <img src="https://imgs.xkcd.com/comics/mu.png" alt="Mu" height="260" />
 </a>
 
-**xkcd #890: Etymology**
+**xkcd #815: Mu**
 
-> For some reason, my childhood suspension of disbelief had no problem with the fact that this ancient galaxy is full of humans, but was derailed by language. There's no Asia OR Europe there, so where'd they get all the Indo-European roots?
+> As the CoKF approaches 0, productivity goes negative as you pull OTHER people into chair-spinning contests.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
