@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/815/">
-  <img src="https://imgs.xkcd.com/comics/mu.png" alt="Mu" height="260" />
+<a href="https://xkcd.com/1945/">
+  <img src="https://imgs.xkcd.com/comics/scientific_paper_graph_quality.png" alt="Scientific Paper Graph Quality" height="260" />
 </a>
 
-**xkcd #815: Mu**
+**xkcd #1945: Scientific Paper Graph Quality**
 
-> As the CoKF approaches 0, productivity goes negative as you pull OTHER people into chair-spinning contests.
+> The worst are graphs with qualitative, vaguely-labeled axes and very little actual data.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
