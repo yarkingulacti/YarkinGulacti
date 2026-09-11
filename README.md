@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1945/">
-  <img src="https://imgs.xkcd.com/comics/scientific_paper_graph_quality.png" alt="Scientific Paper Graph Quality" height="260" />
+<a href="https://xkcd.com/930/">
+  <img src="https://imgs.xkcd.com/comics/days_of_the_week.png" alt="Days of the Week" height="260" />
 </a>
 
-**xkcd #1945: Scientific Paper Graph Quality**
+**xkcd #930: Days of the Week**
 
-> The worst are graphs with qualitative, vaguely-labeled axes and very little actual data.
+> Not pictured: the elongated Halley's-Comet-like orbit of every Rebecca Black lyric.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
