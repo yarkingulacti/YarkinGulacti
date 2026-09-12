@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/930/">
-  <img src="https://imgs.xkcd.com/comics/days_of_the_week.png" alt="Days of the Week" height="260" />
+<a href="https://xkcd.com/1016/">
+  <img src="https://imgs.xkcd.com/comics/valentine_dilemma.png" alt="Valentine Dilemma" height="260" />
 </a>
 
-**xkcd #930: Days of the Week**
+**xkcd #1016: Valentine Dilemma**
 
-> Not pictured: the elongated Halley's-Comet-like orbit of every Rebecca Black lyric.
+> The worst resolution to the Valentine Prisoner's Dilemma when YOU decide not to give your partner a present but your PARTNER decides to testify against you in the armed robbery case.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
