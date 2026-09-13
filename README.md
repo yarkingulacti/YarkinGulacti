@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1016/">
-  <img src="https://imgs.xkcd.com/comics/valentine_dilemma.png" alt="Valentine Dilemma" height="260" />
+<a href="https://xkcd.com/859/">
+  <img src="https://imgs.xkcd.com/comics/(.png" alt="(" height="260" />
 </a>
 
-**xkcd #1016: Valentine Dilemma**
+**xkcd #859: (**
 
-> The worst resolution to the Valentine Prisoner's Dilemma when YOU decide not to give your partner a present but your PARTNER decides to testify against you in the armed robbery case.
+> Brains aside, I wonder how many poorly-written xkcd.com-parsing scripts will break on this title (or ;;"''{<<[' this mouseover text."
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
