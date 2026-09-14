@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/859/">
-  <img src="https://imgs.xkcd.com/comics/(.png" alt="(" height="260" />
+<a href="https://xkcd.com/2837/">
+  <img src="https://imgs.xkcd.com/comics/odyssey.png" alt="Odyssey" height="260" />
 </a>
 
-**xkcd #859: (**
+**xkcd #2837: Odyssey**
 
-> Brains aside, I wonder how many poorly-written xkcd.com-parsing scripts will break on this title (or ;;"''{<<[' this mouseover text."
+> Ugh, it says they attempted delivery but "Nobody was home."
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
