@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/2837/">
-  <img src="https://imgs.xkcd.com/comics/odyssey.png" alt="Odyssey" height="260" />
+<a href="https://xkcd.com/1953/">
+  <img src="https://imgs.xkcd.com/comics/the_history_of_unicode.png" alt="The History of Unicode" height="260" />
 </a>
 
-**xkcd #2837: Odyssey**
+**xkcd #1953: The History of Unicode**
 
-> Ugh, it says they attempted delivery but "Nobody was home."
+> 2048: "Great news for Maine—we're once again an independent state!!! Thanks, @unicode, for ruling in our favor and sending troops to end New Hampshire's annexation. 🙏🚁🎖️"
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
