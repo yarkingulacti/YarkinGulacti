@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1953/">
-  <img src="https://imgs.xkcd.com/comics/the_history_of_unicode.png" alt="The History of Unicode" height="260" />
+<a href="https://xkcd.com/1837/">
+  <img src="https://imgs.xkcd.com/comics/rental_car.png" alt="Rental Car" height="260" />
 </a>
 
-**xkcd #1953: The History of Unicode**
+**xkcd #1837: Rental Car**
 
-> 2048: "Great news for Maine—we're once again an independent state!!! Thanks, @unicode, for ruling in our favor and sending troops to end New Hampshire's annexation. 🙏🚁🎖️"
+> Technically, both cars are haunted, but the murder ghosts can't stand listening to the broken GPS for more than a few minutes.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
