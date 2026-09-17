@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1837/">
-  <img src="https://imgs.xkcd.com/comics/rental_car.png" alt="Rental Car" height="260" />
+<a href="https://xkcd.com/2392/">
+  <img src="https://imgs.xkcd.com/comics/cyber_cafe.png" alt="Cyber Cafe" height="260" />
 </a>
 
-**xkcd #1837: Rental Car**
+**xkcd #2392: Cyber Cafe**
 
-> Technically, both cars are haunted, but the murder ghosts can't stand listening to the broken GPS for more than a few minutes.
+> Since we haven't really settled on a name for those online hangout/work spaces that try to recreate the experience of cafes, and I love confusion, I'm going to start calling them 'cyber cafes' or 'internet cafes.'
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
