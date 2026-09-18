@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/2392/">
-  <img src="https://imgs.xkcd.com/comics/cyber_cafe.png" alt="Cyber Cafe" height="260" />
+<a href="https://xkcd.com/3000/">
+  <img src="https://imgs.xkcd.com/comics/experimental_astrophysics.png" alt="Experimental Astrophysics" height="260" />
 </a>
 
-**xkcd #2392: Cyber Cafe**
+**xkcd #3000: Experimental Astrophysics**
 
-> Since we haven't really settled on a name for those online hangout/work spaces that try to recreate the experience of cafes, and I love confusion, I'm going to start calling them 'cyber cafes' or 'internet cafes.'
+> Our experiment will be expensive, but we believe it will produce important spin-offs, especially if we manage to hit the sun from the right angle.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
