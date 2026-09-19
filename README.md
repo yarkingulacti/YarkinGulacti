@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/3000/">
-  <img src="https://imgs.xkcd.com/comics/experimental_astrophysics.png" alt="Experimental Astrophysics" height="260" />
+<a href="https://xkcd.com/2195/">
+  <img src="https://imgs.xkcd.com/comics/dockless_roombas.png" alt="Dockless Roombas" height="260" />
 </a>
 
-**xkcd #3000: Experimental Astrophysics**
+**xkcd #2195: Dockless Roombas**
 
-> Our experiment will be expensive, but we believe it will produce important spin-offs, especially if we manage to hit the sun from the right angle.
+> The company started out exploiting a loophole in the law banning scooters. The city was mad at first, but then they noticed how much they were saving on street cleaning.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
