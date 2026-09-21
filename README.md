@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/2596/">
-  <img src="https://imgs.xkcd.com/comics/galaxies.png" alt="Galaxies" height="260" />
+<a href="https://xkcd.com/3046/">
+  <img src="https://imgs.xkcd.com/comics/stromatolites.png" alt="Stromatolites" height="260" />
 </a>
 
-**xkcd #2596: Galaxies**
+**xkcd #3046: Stromatolites**
 
-> I know it seems overwhelming, but don't worry; I'm sure most of them have only a few stars, and probably no planets.
+> If only my ancestors had been fortunate enough to marry into the branch of the bacteria family that could photosynthesize, like all my little green cousins here.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
