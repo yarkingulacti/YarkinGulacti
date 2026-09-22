@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/3046/">
-  <img src="https://imgs.xkcd.com/comics/stromatolites.png" alt="Stromatolites" height="260" />
+<a href="https://xkcd.com/25/">
+  <img src="https://imgs.xkcd.com/comics/barrel_part_4.jpg" alt="Barrel - Part 4" height="260" />
 </a>
 
-**xkcd #3046: Stromatolites**
+**xkcd #25: Barrel - Part 4**
 
-> If only my ancestors had been fortunate enough to marry into the branch of the bacteria family that could photosynthesize, like all my little green cousins here.
+> :(
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
