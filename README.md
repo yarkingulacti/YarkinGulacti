@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/25/">
-  <img src="https://imgs.xkcd.com/comics/barrel_part_4.jpg" alt="Barrel - Part 4" height="260" />
+<a href="https://xkcd.com/3209/">
+  <img src="https://imgs.xkcd.com/comics/plums.png" alt="Plums" height="260" />
 </a>
 
-**xkcd #25: Barrel - Part 4**
+**xkcd #3209: Plums**
 
-> :(
+> My icebox plum trap easily captured William Carlos Williams. It took much less work than the infinite looping network of diverging paths I had to build in that yellow wood to ensnare Robert Frost.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
