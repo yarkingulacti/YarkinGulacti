@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/3209/">
-  <img src="https://imgs.xkcd.com/comics/plums.png" alt="Plums" height="260" />
+<a href="https://xkcd.com/1681/">
+  <img src="https://imgs.xkcd.com/comics/laser_products.png" alt="Laser Products" height="260" />
 </a>
 
-**xkcd #3209: Plums**
+**xkcd #1681: Laser Products**
 
-> My icebox plum trap easily captured William Carlos Williams. It took much less work than the infinite looping network of diverging paths I had to build in that yellow wood to ensnare Robert Frost.
+> ERRORS: HAIR JAM. COLOR-SAFE CONDITIONER CARTRIDGE RUNNING LOW. LEGAL-SIZE HAIR TRAY EMPTY, USING LETTER-SIZE HAIR ONLY.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
