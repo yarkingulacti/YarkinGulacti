@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1681/">
-  <img src="https://imgs.xkcd.com/comics/laser_products.png" alt="Laser Products" height="260" />
+<a href="https://xkcd.com/1081/">
+  <img src="https://imgs.xkcd.com/comics/argument_victory.png" alt="Argument Victory" height="260" />
 </a>
 
-**xkcd #1681: Laser Products**
+**xkcd #1081: Argument Victory**
 
-> ERRORS: HAIR JAM. COLOR-SAFE CONDITIONER CARTRIDGE RUNNING LOW. LEGAL-SIZE HAIR TRAY EMPTY, USING LETTER-SIZE HAIR ONLY.
+> Really, the comforting side in most conspiracy theory arguments is the one claiming that anyone who's in power has any plan at all.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
