@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1081/">
-  <img src="https://imgs.xkcd.com/comics/argument_victory.png" alt="Argument Victory" height="260" />
+<a href="https://xkcd.com/1682/">
+  <img src="https://imgs.xkcd.com/comics/bun.png" alt="Bun" height="260" />
 </a>
 
-**xkcd #1081: Argument Victory**
+**xkcd #1682: Bun**
 
-> Really, the comforting side in most conspiracy theory arguments is the one claiming that anyone who's in power has any plan at all.
+> If a wild bun is sighted, a nice gesture of respect is to send a 'BUN ALERT' message to friends and family, with photographs documenting the bun's location and rank. If no photographs are possible, emoji may be substituted.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
