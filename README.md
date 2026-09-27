@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1682/">
-  <img src="https://imgs.xkcd.com/comics/bun.png" alt="Bun" height="260" />
+<a href="https://xkcd.com/3092/">
+  <img src="https://imgs.xkcd.com/comics/bakers_units.png" alt="Baker's Units" height="260" />
 </a>
 
-**xkcd #1682: Bun**
+**xkcd #3092: Baker's Units**
 
-> If a wild bun is sighted, a nice gesture of respect is to send a 'BUN ALERT' message to friends and family, with photographs documenting the bun's location and rank. If no photographs are possible, emoji may be substituted.
+> 169 is a baker's gross.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
