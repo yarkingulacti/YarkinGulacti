@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/3092/">
-  <img src="https://imgs.xkcd.com/comics/bakers_units.png" alt="Baker's Units" height="260" />
+<a href="https://xkcd.com/3201/">
+  <img src="https://imgs.xkcd.com/comics/proof_without_content.png" alt="Proof Without Content" height="260" />
 </a>
 
-**xkcd #3092: Baker's Units**
+**xkcd #3201: Proof Without Content**
 
-> 169 is a baker's gross.
+> There's also a proof without content of a conjecture without content, but it's left as an exercise for the reader.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
