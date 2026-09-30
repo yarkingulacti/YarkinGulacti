@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/3201/">
-  <img src="https://imgs.xkcd.com/comics/proof_without_content.png" alt="Proof Without Content" height="260" />
+<a href="https://xkcd.com/3236/">
+  <img src="https://imgs.xkcd.com/comics/border_message.png" alt="Border Message" height="260" />
 </a>
 
-**xkcd #3201: Proof Without Content**
+**xkcd #3236: Border Message**
 
-> There's also a proof without content of a conjecture without content, but it's left as an exercise for the reader.
+> Thanks to differences in logging regulations, the messages actually turned out to be visible from the air.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
