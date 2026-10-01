@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/3236/">
-  <img src="https://imgs.xkcd.com/comics/border_message.png" alt="Border Message" height="260" />
+<a href="https://xkcd.com/1140/">
+  <img src="https://imgs.xkcd.com/comics/calendar_of_meaningful_dates.png" alt="Calendar of Meaningful Dates" height="260" />
 </a>
 
-**xkcd #3236: Border Message**
+**xkcd #1140: Calendar of Meaningful Dates**
 
-> Thanks to differences in logging regulations, the messages actually turned out to be visible from the air.
+> In months other than September, the 11th is mentioned substantially less often than any other date. It's been that way since long before 9/11 and I have no idea why.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
