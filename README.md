@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1140/">
-  <img src="https://imgs.xkcd.com/comics/calendar_of_meaningful_dates.png" alt="Calendar of Meaningful Dates" height="260" />
+<a href="https://xkcd.com/1900/">
+  <img src="https://imgs.xkcd.com/comics/jet_lag.png" alt="Jet Lag" height="260" />
 </a>
 
-**xkcd #1140: Calendar of Meaningful Dates**
+**xkcd #1900: Jet Lag**
 
-> In months other than September, the 11th is mentioned substantially less often than any other date. It's been that way since long before 9/11 and I have no idea why.
+> I had some important research to do on proposed interstellar space missions, basketball statistics, canceled skyscrapers, and every article linked from "Women in warfare and the military in the 19th century."
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
