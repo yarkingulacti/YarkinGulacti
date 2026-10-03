@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1900/">
-  <img src="https://imgs.xkcd.com/comics/jet_lag.png" alt="Jet Lag" height="260" />
+<a href="https://xkcd.com/1006/">
+  <img src="https://imgs.xkcd.com/comics/sloppier_than_fiction.png" alt="Sloppier Than Fiction" height="260" />
 </a>
 
-**xkcd #1900: Jet Lag**
+**xkcd #1006: Sloppier Than Fiction**
 
-> I had some important research to do on proposed interstellar space missions, basketball statistics, canceled skyscrapers, and every article linked from "Women in warfare and the military in the 19th century."
+> Roger Ebert once called you directionless and unwatchable.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
