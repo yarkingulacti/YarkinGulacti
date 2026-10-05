@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1226/">
-  <img src="https://imgs.xkcd.com/comics/balloon_internet.png" alt="Balloon Internet" height="260" />
+<a href="https://xkcd.com/1450/">
+  <img src="https://imgs.xkcd.com/comics/ai_box_experiment.png" alt="AI-Box Experiment" height="260" />
 </a>
 
-**xkcd #1226: Balloon Internet**
+**xkcd #1450: AI-Box Experiment**
 
-> I run a business selling rural internet access. My infrastructure consists of a bunch of Verizon wifi hotspots that I sign up for and then cancel at the end of the 14-day return period.
+> I'm working to bring about a superintelligent AI that will eternally torment everyone who failed to make fun of the Roko's Basilisk people.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
