@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1450/">
-  <img src="https://imgs.xkcd.com/comics/ai_box_experiment.png" alt="AI-Box Experiment" height="260" />
+<a href="https://xkcd.com/2801/">
+  <img src="https://imgs.xkcd.com/comics/contact_merge.png" alt="Contact Merge" height="260" />
 </a>
 
-**xkcd #1450: AI-Box Experiment**
+**xkcd #2801: Contact Merge**
 
-> I'm working to bring about a superintelligent AI that will eternally torment everyone who failed to make fun of the Roko's Basilisk people.
+> I actually kind of feel like John and Surf King wouldn't like each other, which is a lot to unpack.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
