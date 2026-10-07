@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/2801/">
-  <img src="https://imgs.xkcd.com/comics/contact_merge.png" alt="Contact Merge" height="260" />
+<a href="https://xkcd.com/2624/">
+  <img src="https://imgs.xkcd.com/comics/voyager_wires.png" alt="Voyager Wires" height="260" />
 </a>
 
-**xkcd #2801: Contact Merge**
+**xkcd #2624: Voyager Wires**
 
-> I actually kind of feel like John and Surf King wouldn't like each other, which is a lot to unpack.
+> Also, they're getting increasingly worried that someone will accidentally hit the 'retract' button, and that the end of the cable thrashing around as it winds up could devastate the Earth's surface.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
