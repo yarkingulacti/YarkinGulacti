@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/2624/">
-  <img src="https://imgs.xkcd.com/comics/voyager_wires.png" alt="Voyager Wires" height="260" />
+<a href="https://xkcd.com/2188/">
+  <img src="https://imgs.xkcd.com/comics/e_scooters.png" alt="E Scooters" height="260" />
 </a>
 
-**xkcd #2624: Voyager Wires**
+**xkcd #2188: E Scooters**
 
-> Also, they're getting increasingly worried that someone will accidentally hit the 'retract' button, and that the end of the cable thrashing around as it winds up could devastate the Earth's surface.
+> Obviously battery technology and prices have driven a lot of the scooter explosion, but I feel like Dean Kamen must be at least a little grumpy about how much people laughed at the idea of the Segway.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
