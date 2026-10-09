@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/2188/">
-  <img src="https://imgs.xkcd.com/comics/e_scooters.png" alt="E Scooters" height="260" />
+<a href="https://xkcd.com/2355/">
+  <img src="https://imgs.xkcd.com/comics/university_covid_model.png" alt="University COVID Model" height="260" />
 </a>
 
-**xkcd #2188: E Scooters**
+**xkcd #2355: University COVID Model**
 
-> Obviously battery technology and prices have driven a lot of the scooter explosion, but I feel like Dean Kamen must be at least a little grumpy about how much people laughed at the idea of the Segway.
+> I admit this is an exaggeration, since I can think of at least three parties I attended while doing my degree, and I'm probably forgetting several more.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
