@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/2355/">
-  <img src="https://imgs.xkcd.com/comics/university_covid_model.png" alt="University COVID Model" height="260" />
+<a href="https://xkcd.com/3005/">
+  <img src="https://imgs.xkcd.com/comics/disposal.png" alt="Disposal" height="260" />
 </a>
 
-**xkcd #2355: University COVID Model**
+**xkcd #3005: Disposal**
 
-> I admit this is an exaggeration, since I can think of at least three parties I attended while doing my degree, and I'm probably forgetting several more.
+> We were disappointed that the rocket didn't make a THOOOONK noise when it went into the tube, but we're setting up big loudspeakers for future launches to add the sound effect.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
