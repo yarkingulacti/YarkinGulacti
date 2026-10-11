@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/3005/">
-  <img src="https://imgs.xkcd.com/comics/disposal.png" alt="Disposal" height="260" />
+<a href="https://xkcd.com/2279/">
+  <img src="https://imgs.xkcd.com/comics/symptoms.png" alt="Symptoms" height="260" />
 </a>
 
-**xkcd #3005: Disposal**
+**xkcd #2279: Symptoms**
 
-> We were disappointed that the rocket didn't make a THOOOONK noise when it went into the tube, but we're setting up big loudspeakers for future launches to add the sound effect.
+> This medicine says it may cause lightheadedness, dry mouth, and blurred vision, but my head feels incredibly heavy, water is pouring from my mouth, and I can see individual hummingbird wingbeats, so I think I'm fine.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
