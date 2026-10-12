@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/2279/">
-  <img src="https://imgs.xkcd.com/comics/symptoms.png" alt="Symptoms" height="260" />
+<a href="https://xkcd.com/1528/">
+  <img src="https://imgs.xkcd.com/comics/vodka.png" alt="Vodka" height="260" />
 </a>
 
-**xkcd #2279: Symptoms**
+**xkcd #1528: Vodka**
 
-> This medicine says it may cause lightheadedness, dry mouth, and blurred vision, but my head feels incredibly heavy, water is pouring from my mouth, and I can see individual hummingbird wingbeats, so I think I'm fine.
+> Or whatever's handy! I'm pretty much pure alcohol and water, so it doesn't really matter!
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
