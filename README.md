@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/2005/">
-  <img src="https://imgs.xkcd.com/comics/attention_span.png" alt="Attention Span" height="260" />
+<a href="https://xkcd.com/672/">
+  <img src="https://imgs.xkcd.com/comics/suggestions.png" alt="Suggestions" height="260" />
 </a>
 
-**xkcd #2005: Attention Span**
+**xkcd #672: Suggestions**
 
-> I didn't even realize they MADE a novelization of "Surf Ninjas." How did you-- Oh my god, it's signed by the author?!
+> An hour later: SUGGESTION: LICK HER NIPPLE MORE.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
