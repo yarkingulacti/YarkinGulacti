@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/672/">
-  <img src="https://imgs.xkcd.com/comics/suggestions.png" alt="Suggestions" height="260" />
+<a href="https://xkcd.com/800/">
+  <img src="https://imgs.xkcd.com/comics/beautiful_dream.png" alt="Beautiful Dream" height="260" />
 </a>
 
-**xkcd #672: Suggestions**
+**xkcd #800: Beautiful Dream**
 
-> An hour later: SUGGESTION: LICK HER NIPPLE MORE.
+> Lucky. In MY dream, all the people who grew up loving The Giving Tree paired up with all the students who had weird dreams after reading The Metamorphosis. That one was more confusing.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
