@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1301/">
-  <img src="https://imgs.xkcd.com/comics/file_extensions.png" alt="File Extensions" height="260" />
+<a href="https://xkcd.com/3115/">
+  <img src="https://imgs.xkcd.com/comics/unsolved_physics_problems.png" alt="Unsolved Physics Problems" height="260" />
 </a>
 
-**xkcd #1301: File Extensions**
+**xkcd #3115: Unsolved Physics Problems**
 
-> I have never been lied to by data in a .txt file which has been hand-aligned.
+> 'Tin pest' makes more sense to me. Tin just doesn't want to be locked down in a shape like that. I get it. But why would any metal want to grow hair??
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
