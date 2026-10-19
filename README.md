@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/3115/">
-  <img src="https://imgs.xkcd.com/comics/unsolved_physics_problems.png" alt="Unsolved Physics Problems" height="260" />
+<a href="https://xkcd.com/2506/">
+  <img src="https://imgs.xkcd.com/comics/projecting.png" alt="Projecting" height="260" />
 </a>
 
-**xkcd #3115: Unsolved Physics Problems**
+**xkcd #2506: Projecting**
 
-> 'Tin pest' makes more sense to me. Tin just doesn't want to be locked down in a shape like that. I get it. But why would any metal want to grow hair??
+> This is something we all need to work on, but especially you all.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
