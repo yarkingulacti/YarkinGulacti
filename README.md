@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/2506/">
-  <img src="https://imgs.xkcd.com/comics/projecting.png" alt="Projecting" height="260" />
+<a href="https://xkcd.com/1581/">
+  <img src="https://imgs.xkcd.com/comics/birthday.png" alt="Birthday" height="260" />
 </a>
 
-**xkcd #2506: Projecting**
+**xkcd #1581: Birthday**
 
-> This is something we all need to work on, but especially you all.
+> I guess I need to apologize to my parents, friends, and the staff at Chuck E. Cheese's for all the times I called the cops on them.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
