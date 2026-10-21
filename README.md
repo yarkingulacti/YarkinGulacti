@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1581/">
-  <img src="https://imgs.xkcd.com/comics/birthday.png" alt="Birthday" height="260" />
+<a href="https://xkcd.com/1537/">
+  <img src="https://imgs.xkcd.com/comics/types.png" alt="Types" height="260" />
 </a>
 
-**xkcd #1581: Birthday**
+**xkcd #1537: Types**
 
-> I guess I need to apologize to my parents, friends, and the staff at Chuck E. Cheese's for all the times I called the cops on them.
+> colors.rgb("blue") yields "#0000FF". colors.rgb("yellowish blue") yields NaN. colors.sort() yields "rainbow"
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
