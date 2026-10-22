@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1537/">
-  <img src="https://imgs.xkcd.com/comics/types.png" alt="Types" height="260" />
+<a href="https://xkcd.com/422/">
+  <img src="https://imgs.xkcd.com/comics/a_better_idea.png" alt="A Better Idea" height="260" />
 </a>
 
-**xkcd #1537: Types**
+**xkcd #422: A Better Idea**
 
-> colors.rgb("blue") yields "#0000FF". colors.rgb("yellowish blue") yields NaN. colors.sort() yields "rainbow"
+> It's *almost* enough to make me want to redo high school.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
