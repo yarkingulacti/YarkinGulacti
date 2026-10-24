@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/3169/">
-  <img src="https://imgs.xkcd.com/comics/epirbs.png" alt="EPIRBs" height="260" />
+<a href="https://xkcd.com/469/">
+  <img src="https://imgs.xkcd.com/comics/improvised.png" alt="Improvised" height="260" />
 </a>
 
-**xkcd #3169: EPIRBs**
+**xkcd #469: Improvised**
 
-> 'Oh no, the box is drifting out into the harbor!' 'Yeah, I wouldn't worry about losing it.'
+> Oh, your brother is Luke.  Sorry, should've mentioned that first.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
