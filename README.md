@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/949/">
-  <img src="https://imgs.xkcd.com/comics/file_transfer.png" alt="File Transfer" height="260" />
+<a href="https://xkcd.com/620/">
+  <img src="https://imgs.xkcd.com/comics/wings.png" alt="Wings" height="260" />
 </a>
 
-**xkcd #949: File Transfer**
+**xkcd #620: Wings**
 
-> Every time you email a file to yourself so you can pull it up on your friend's laptop, Tim Berners-Lee sheds a single tear.
+> Please do not try any of this and die or get arrested.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
