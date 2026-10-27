@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/620/">
-  <img src="https://imgs.xkcd.com/comics/wings.png" alt="Wings" height="260" />
+<a href="https://xkcd.com/1159/">
+  <img src="https://imgs.xkcd.com/comics/countdown.png" alt="Countdown" height="260" />
 </a>
 
-**xkcd #620: Wings**
+**xkcd #1159: Countdown**
 
-> Please do not try any of this and die or get arrested.
+> For all we know, the odds are in our favor.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
