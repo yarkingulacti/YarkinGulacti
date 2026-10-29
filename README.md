@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/586/">
-  <img src="https://imgs.xkcd.com/comics/mission_to_culture.png" alt="Mission to Culture" height="260" />
+<a href="https://xkcd.com/1892/">
+  <img src="https://imgs.xkcd.com/comics/usb_cables.png" alt="USB Cables" height="260" />
 </a>
 
-**xkcd #586: Mission to Culture**
+**xkcd #1892: USB Cables**
 
-> It can't be very MUCH money ... they apparently can't even afford a sampler.  I mean, with a little remixing, some of this could be kinda good!
+> Tag yourself, I'm "frayed."
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
