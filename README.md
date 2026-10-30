@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1892/">
-  <img src="https://imgs.xkcd.com/comics/usb_cables.png" alt="USB Cables" height="260" />
+<a href="https://xkcd.com/3305/">
+  <img src="https://imgs.xkcd.com/comics/ground_effect.png" alt="Ground Effect" height="260" />
 </a>
 
-**xkcd #1892: USB Cables**
+**xkcd #3305: Ground Effect**
 
-> Tag yourself, I'm "frayed."
+> Runners looking for aerodynamic advantage typically wear sneakers because some fancy dress shoes can create wingtip vortices.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
