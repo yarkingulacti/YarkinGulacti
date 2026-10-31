@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/3305/">
-  <img src="https://imgs.xkcd.com/comics/ground_effect.png" alt="Ground Effect" height="260" />
+<a href="https://xkcd.com/1461/">
+  <img src="https://imgs.xkcd.com/comics/payloads.png" alt="Payloads" height="260" />
 </a>
 
-**xkcd #3305: Ground Effect**
+**xkcd #1461: Payloads**
 
-> Runners looking for aerodynamic advantage typically wear sneakers because some fancy dress shoes can create wingtip vortices.
+> With a space elevator, a backyard full of solar panels could launch about 500 horses per year, and a large power plant could launch 10 horses per minute.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
