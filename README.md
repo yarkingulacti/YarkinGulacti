@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1063/">
-  <img src="https://imgs.xkcd.com/comics/kill_hitler.png" alt="Kill Hitler" height="260" />
+<a href="https://xkcd.com/893/">
+  <img src="https://imgs.xkcd.com/comics/65_years.png" alt="65 Years" height="260" />
 </a>
 
-**xkcd #1063: Kill Hitler**
+**xkcd #893: 65 Years**
 
-> Revised directive: It is forbidden for you to interfere with human history until you've at least taken a class on it.
+> The universe is probably littered with the one-planet graves of cultures which made the sensible economic decision that there's no good reason to go into space--each discovered, studied, and remembered by the ones who made the irrational decision.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
