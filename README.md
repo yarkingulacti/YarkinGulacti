@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/893/">
-  <img src="https://imgs.xkcd.com/comics/65_years.png" alt="65 Years" height="260" />
+<a href="https://xkcd.com/2419/">
+  <img src="https://imgs.xkcd.com/comics/hug_count.png" alt="Hug Count" height="260" />
 </a>
 
-**xkcd #893: 65 Years**
+**xkcd #2419: Hug Count**
 
-> The universe is probably littered with the one-planet graves of cultures which made the sensible economic decision that there's no good reason to go into space--each discovered, studied, and remembered by the ones who made the irrational decision.
+> I've never been that big of a hug person, but it turns out I'm not quite this small of a hug person either.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
