@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/2419/">
-  <img src="https://imgs.xkcd.com/comics/hug_count.png" alt="Hug Count" height="260" />
+<a href="https://xkcd.com/3187/">
+  <img src="https://imgs.xkcd.com/comics/high_altitude_cooking_instructions.png" alt="High Altitude Cooking Instructions" height="260" />
 </a>
 
-**xkcd #2419: Hug Count**
+**xkcd #3187: High Altitude Cooking Instructions**
 
-> I've never been that big of a hug person, but it turns out I'm not quite this small of a hug person either.
+> 1,300,000-1,400,000 ft: Ask a crew member to show you how to use the ISS food warmer.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
