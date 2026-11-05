@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/3187/">
-  <img src="https://imgs.xkcd.com/comics/high_altitude_cooking_instructions.png" alt="High Altitude Cooking Instructions" height="260" />
+<a href="https://xkcd.com/1516/">
+  <img src="https://imgs.xkcd.com/comics/win_by_induction.png" alt="Win by Induction" height="260" />
 </a>
 
-**xkcd #3187: High Altitude Cooking Instructions**
+**xkcd #1516: Win by Induction**
 
-> 1,300,000-1,400,000 ft: Ask a crew member to show you how to use the ISS food warmer.
+> This would be bad enough, but every 30th or 40th pokéball has TWO of them inside.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
