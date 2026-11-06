@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1516/">
-  <img src="https://imgs.xkcd.com/comics/win_by_induction.png" alt="Win by Induction" height="260" />
+<a href="https://xkcd.com/1385/">
+  <img src="https://imgs.xkcd.com/comics/throwing_rocks.png" alt="Throwing Rocks" height="260" />
 </a>
 
-**xkcd #1516: Win by Induction**
+**xkcd #1385: Throwing Rocks**
 
-> This would be bad enough, but every 30th or 40th pokéball has TWO of them inside.
+> ::PLOOOOSH:: Looks like you won't be making it to Vinland today, Leaf Erikson.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
