@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1385/">
-  <img src="https://imgs.xkcd.com/comics/throwing_rocks.png" alt="Throwing Rocks" height="260" />
+<a href="https://xkcd.com/1729/">
+  <img src="https://imgs.xkcd.com/comics/migrating_geese.png" alt="Migrating Geese" height="260" />
 </a>
 
-**xkcd #1385: Throwing Rocks**
+**xkcd #1729: Migrating Geese**
 
-> ::PLOOOOSH:: Looks like you won't be making it to Vinland today, Leaf Erikson.
+> "Hey guys! I have a great idea for a migration!" "Dammit, Kevin."
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
