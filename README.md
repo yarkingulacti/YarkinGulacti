@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/2914/">
-  <img src="https://imgs.xkcd.com/comics/eclipse_coolness.png" alt="Eclipse Coolness" height="260" />
+<a href="https://xkcd.com/1526/">
+  <img src="https://imgs.xkcd.com/comics/placebo_blocker.png" alt="Placebo Blocker" height="260" />
 </a>
 
-**xkcd #2914: Eclipse Coolness**
+**xkcd #1526: Placebo Blocker**
 
-> A partial eclipse is like a cool sunset. A total eclipse is like someone broke the sky.
+> They work even better if you take them with our experimental placebo booster, which I keep in the same bottle.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
