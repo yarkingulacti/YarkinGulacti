@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1526/">
-  <img src="https://imgs.xkcd.com/comics/placebo_blocker.png" alt="Placebo Blocker" height="260" />
+<a href="https://xkcd.com/2883/">
+  <img src="https://imgs.xkcd.com/comics/astronaut_guests.png" alt="Astronaut Guests" height="260" />
 </a>
 
-**xkcd #1526: Placebo Blocker**
+**xkcd #2883: Astronaut Guests**
 
-> They work even better if you take them with our experimental placebo booster, which I keep in the same bottle.
+> They didn't bring us a gift, but considering the kinetic energy of a bottle of wine at orbital speed, that's probably for the best.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
