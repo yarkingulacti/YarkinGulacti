@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/2883/">
-  <img src="https://imgs.xkcd.com/comics/astronaut_guests.png" alt="Astronaut Guests" height="260" />
+<a href="https://xkcd.com/1491/">
+  <img src="https://imgs.xkcd.com/comics/stories_of_the_past_and_future.png" alt="Stories of the Past and Future" height="260" />
 </a>
 
-**xkcd #2883: Astronaut Guests**
+**xkcd #1491: Stories of the Past and Future**
 
-> They didn't bring us a gift, but considering the kinetic energy of a bottle of wine at orbital speed, that's probably for the best.
+> Little-known fact: The 'Dawn of Man' opening sequence in 2001 cuts away seconds before the Flintstones theme becomes recognizable.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
