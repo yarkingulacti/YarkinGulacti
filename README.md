@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1491/">
-  <img src="https://imgs.xkcd.com/comics/stories_of_the_past_and_future.png" alt="Stories of the Past and Future" height="260" />
+<a href="https://xkcd.com/75/">
+  <img src="https://imgs.xkcd.com/comics/curse_levels.jpg" alt="Curse Levels" height="260" />
 </a>
 
-**xkcd #1491: Stories of the Past and Future**
+**xkcd #75: Curse Levels**
 
-> Little-known fact: The 'Dawn of Man' opening sequence in 2001 cuts away seconds before the Flintstones theme becomes recognizable.
+> I find so much fun in language.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
