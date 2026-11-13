@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/75/">
-  <img src="https://imgs.xkcd.com/comics/curse_levels.jpg" alt="Curse Levels" height="260" />
+<a href="https://xkcd.com/1370/">
+  <img src="https://imgs.xkcd.com/comics/president.png" alt="President" height="260" />
 </a>
 
-**xkcd #75: Curse Levels**
+**xkcd #1370: President**
 
-> I find so much fun in language.
+> Anyone who thinks we're all going to spend the 2032 elections poring over rambling blog posts by teenagers has never tried to read a rambling blog post by a teenager.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
