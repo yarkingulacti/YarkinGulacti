@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1938/">
-  <img src="https://imgs.xkcd.com/comics/meltdown_and_spectre.png" alt="Meltdown and Spectre" height="260" />
+<a href="https://xkcd.com/1593/">
+  <img src="https://imgs.xkcd.com/comics/play_by_play.png" alt="Play-By-Play" height="260" />
 </a>
 
-**xkcd #1938: Meltdown and Spectre**
+**xkcd #1593: Play-By-Play**
 
-> New zero-day vulnerability: In addition to rowhammer, it turns out lots of servers are vulnerable to regular hammers, too.
+> The thrower started hitting the bats too much, so the king of the game told him to leave and brought out another thrower from thrower jail.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
