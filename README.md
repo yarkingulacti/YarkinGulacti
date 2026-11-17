@@ -9,7 +9,7 @@
 
 ### Full Stack Developer · DevOps Engineer · professional `works-on-my-machine` exorcist 🧙‍♂️
 
-[![Website](https://img.shields.io/badge/Website-developeryarkin.com-3887FE?style=for-the-badge&logo=google-chrome&logoColor=white)](https://developeryarkin.com)
+[![Website](https://img.shields.io/badge/Website-yarkingulacti.com-3887FE?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yarkingulacti.com)
 [![GitHub](https://img.shields.io/badge/GitHub-yarkingulacti-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yarkingulacti)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yarkingulacti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yarkingulacti/)
 [![Email](https://img.shields.io/badge/Email-yarkingulacti%40outlook.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yarkingulacti@outlook.com)
