@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/2577/">
-  <img src="https://imgs.xkcd.com/comics/sea_chase.png" alt="Sea Chase" height="260" />
+<a href="https://xkcd.com/13/">
+  <img src="https://imgs.xkcd.com/comics/canyon_small.jpg" alt="Canyon" height="260" />
 </a>
 
-**xkcd #2577: Sea Chase**
+**xkcd #13: Canyon**
 
-> There are two rules on this ship: Never gaze back into the projection abyss, and never touch the red button labeled DYMAXION.
+> They're standing at the lip of the canyon, which isn't clear at all.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
