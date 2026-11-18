@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/13/">
-  <img src="https://imgs.xkcd.com/comics/canyon_small.jpg" alt="Canyon" height="260" />
+<a href="https://xkcd.com/2183/">
+  <img src="https://imgs.xkcd.com/comics/icon_swap.png" alt="Icon Swap" height="260" />
 </a>
 
-**xkcd #13: Canyon**
+**xkcd #2183: Icon Swap**
 
-> They're standing at the lip of the canyon, which isn't clear at all.
+> Someone's probably working on an eBook app where, if you stop reading right before some plot twist happens, the app will wait a while and then send you a breaking news alert about what's happening, prompting you to open it and read the next few pages to learn more.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
