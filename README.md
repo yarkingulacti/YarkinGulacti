@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/818/">
-  <img src="https://imgs.xkcd.com/comics/illness.png" alt="Illness" height="260" />
+<a href="https://xkcd.com/309/">
+  <img src="https://imgs.xkcd.com/comics/shopping_teams.png" alt="Shopping Teams" height="260" />
 </a>
 
-**xkcd #818: Illness**
+**xkcd #309: Shopping Teams**
 
-> <3 If there's anything you can do, I'll let you know. For the moment, any simple distracting online games sent to sick@xkcd.com will not go unappreciated [EDIT: Holy crap 2,700 games before noon. I love you guys; thank you. They will be passed along and played by us all.]
+> I am never going out to buy an air conditioner with my sysadmin again.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
