@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/309/">
-  <img src="https://imgs.xkcd.com/comics/shopping_teams.png" alt="Shopping Teams" height="260" />
+<a href="https://xkcd.com/648/">
+  <img src="https://imgs.xkcd.com/comics/fall_foliage.png" alt="Fall Foliage" height="260" />
 </a>
 
-**xkcd #309: Shopping Teams**
+**xkcd #648: Fall Foliage**
 
-> I am never going out to buy an air conditioner with my sysadmin again.
+> And I could replace you with older pictures of you, from back when you looked happy.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
