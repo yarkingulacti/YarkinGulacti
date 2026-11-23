@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/648/">
-  <img src="https://imgs.xkcd.com/comics/fall_foliage.png" alt="Fall Foliage" height="260" />
+<a href="https://xkcd.com/1247/">
+  <img src="https://imgs.xkcd.com/comics/the_mother_of_all_suspicious_files.png" alt="The Mother of All Suspicious Files" height="260" />
 </a>
 
-**xkcd #648: Fall Foliage**
+**xkcd #1247: The Mother of All Suspicious Files**
 
-> And I could replace you with older pictures of you, from back when you looked happy.
+> Better change the URL to 'https' before downloading.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
