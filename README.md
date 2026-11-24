@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/1247/">
-  <img src="https://imgs.xkcd.com/comics/the_mother_of_all_suspicious_files.png" alt="The Mother of All Suspicious Files" height="260" />
+<a href="https://xkcd.com/2176/">
+  <img src="https://imgs.xkcd.com/comics/how_hacking_works.png" alt="How Hacking Works" height="260" />
 </a>
 
-**xkcd #1247: The Mother of All Suspicious Files**
+**xkcd #2176: How Hacking Works**
 
-> Better change the URL to 'https' before downloading.
+> If only somebody had warned them that the world would roll them like this.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
