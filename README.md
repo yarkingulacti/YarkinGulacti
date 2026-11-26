@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/3144/">
-  <img src="https://imgs.xkcd.com/comics/phase_changes.png" alt="Phase Changes" height="260" />
+<a href="https://xkcd.com/2781/">
+  <img src="https://imgs.xkcd.com/comics/the_six_platonic_solids.png" alt="The Six Platonic Solids" height="260" />
 </a>
 
-**xkcd #3144: Phase Changes**
+**xkcd #2781: The Six Platonic Solids**
 
-> People looking for the gaps in our understanding where the meaning of consciousness or free will might hide often turn to quantum uncertainty or infinite cosmologies, as if we don't have breathtakingly complex emergent phenomena right there in our freezers.
+> Plato made the solids, and five were gifted to the mathematicians. But in secret Plato forged a sixth solid to rule over all the others.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
