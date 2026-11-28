@@ -81,13 +81,13 @@ Status:      May be slow to respond, probably debugging a haunted YAML file 👻
 <!-- RANDOM-COMIC:START -->
 ## 🎲 Random comic break, because brains need snacks
 
-<a href="https://xkcd.com/3027/">
-  <img src="https://imgs.xkcd.com/comics/exclusion_principle.png" alt="Exclusion Principle" height="260" />
+<a href="https://xkcd.com/2557/">
+  <img src="https://imgs.xkcd.com/comics/immunity.png" alt="Immunity" height="260" />
 </a>
 
-**xkcd #3027: Exclusion Principle**
+**xkcd #2557: Immunity**
 
-> Fermions are weird about each other in a standoffish way. Integer-spin particles are weird about each other in a 'stand uncomfortably close while talking' kind of way.
+> This plan may sound appealing to people who know a little about the immune system, but the drawbacks are clear to people who know a lot about the immune system and also to people who don't know anything about it.
 
 <sub>Auto-shuffled by GitHub Actions. If this comic explains production, please open an incident.</sub>
 <!-- RANDOM-COMIC:END -->
